@@ -1,14 +1,10 @@
 import React from 'react';
-import logo from '../logo.svg';
-
+import Typed from 'react-typed.js';
 
 function Home(){
     return(
         <>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-            Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <Typed strings = {["Hello I'm Solomon ","I have these skills:"]}/>
         </>
 
     )
