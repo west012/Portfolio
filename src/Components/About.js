@@ -7,9 +7,13 @@ function About(){
     return(
         <>
         <img src= {Headshotpic} alt ="Headshot"/>
-        <p>
-            About Me
-        </p>
+        <div>
+            <h3> About Me</h3>
+            <p>
+                Solomon West is a skillful junior engineer who excels in using test-driven development to deploy components and applications.
+                he is excited to create intuitive solutions to real-world problems.
+            </p>
+        </div>
         </>
 
     )

@@ -32,7 +32,7 @@ class App extends Component {
                 position: 'absolute',
                 top: '0',
                 left: '0',
-                height:'100vh'
+                height: 'auto'
               }}
             />
         <header className="App-header">
