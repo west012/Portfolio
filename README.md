@@ -1,5 +1,10 @@
 #Portfolio project
-
+## Getting started. 
+    *git clone repository
+    *cd into the file directory
+    *npm i in bash
+    *npm start
+    *visit localhost 3000
 #I did this using the following technologies:
     *React.js
     *Javascript
