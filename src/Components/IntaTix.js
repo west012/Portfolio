@@ -25,9 +25,8 @@ function IntaTix(){
             <img src= {right_answer_encouragment} alt ='right_answer_encouragement'/>
             <img src= {Risk_like_territory_grab} alt ='Risk_like_territory_grab'/>
             <img src= {Subconsious_memorization} alt ='Subconscious_memorization'/>
-            <img src= {time_allotment_suggestion
-            } alt =''/>
-            <img src= {} alt =''/>
+            <img src= {time_allotment_suggestion} alt ='time_allotment_suggestion'/>
+            
         </div>
     )
 }

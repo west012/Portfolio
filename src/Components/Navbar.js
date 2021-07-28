@@ -13,8 +13,9 @@ function NavBar(){
             </Nav>
             <Nav>
             
-            <NavDropdown title="Dropdown" id="collapsible-nav-dropdown">
-                <NavDropdown.Item href="/Projects" >All Projects</NavDropdown.Item>
+            <NavDropdown title="Current Work" id="collapsible-nav-dropdown">
+                {/* <NavDropdown.Item href="/Projects" >All Projects</NavDropdown.Item> */}
+                <NavDropdown.Item href="/InstaTix">Lecture.Me by InstaTix</NavDropdown.Item>
                 <NavDropdown.Divider/>
                 <NavDropdown.Item href="https://www.economist.com/" target = 'blank'>Economist</NavDropdown.Item>
                 <NavDropdown.Item href="https://popsci.com" target = 'blank'>PopularScience</NavDropdown.Item>
