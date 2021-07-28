@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import About from './Components/About';
 import Project from './Components/Projects';
+import InstaTix from './Components/InstaTix';
 import {Switch, Route} from 'react-router-dom';
 import Particles from 'react-particles-js'
 
@@ -41,7 +42,8 @@ class App extends Component {
           <Route path ="/" component ={Home} exact/>
           <Route path ="/about" component ={About}/>
           <Route path ="/projects" component ={Project}/>
-          <Route path = "https://github.com/west012"/>
+          <Route path = "/InstaTix" component ={InstaTix}/>
+          {/* <Route path = "https://github.com/west012" component={}/> */}
           <Route component ={Error}/>
         </Switch>
         </header>
