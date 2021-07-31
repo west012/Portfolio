@@ -22,7 +22,7 @@ function InstaTix(){
                 </h3>
                 <p>
                     The InstaTix, LLC creates a feedback mechanism for small business and academia with the goal of allowing content creators to engage with their customers through an online presence
-                    This online presence affords  small businesses above chance to forecast changes in consumer demand and sentiment bygiving them the exclusive opportunity to fill market survey samples accurately and quickly offering them juststification for 
+                    This online presence affords  small businesses above chance to forecast changes in consumer demand and sentiment by giving them the exclusive opportunity to fill market survey samples accurately and quickly offering them justification for 
                     improving product offering or service.
                 </p>
             </div>
