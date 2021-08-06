@@ -31,9 +31,10 @@ class App extends Component {
                 zIndex: '-3',
                 width: '100vw',
                 position: 'absolute',
+                paddingTop: '56px',
                 top: '0',
                 left: '0',
-                height: 'auto'
+                height: '100vh'
               }}
             />
         <header className="App-header">

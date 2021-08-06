@@ -12,6 +12,9 @@ function About(){
                 Solomon West is a skillful junior engineer who excels in using test-driven development to deploy components and applications.
                 He is excited to create intuitive solutions to real-world problems.
             </p>
+            <p>
+                <a href="mailto:westxsw@outlook.com">Click here</a>
+            </p>
         </div>
         </>
 
