@@ -24,7 +24,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width:100vw
+  width:100vw;
 }
 
 .App-link {
@@ -40,13 +40,16 @@
   }
   
 }
+.navbar{
+  z-index: 20;
+}
 .container{
   background-color: rgb(10, 200, 190);
 }
 .navigation{
   position :sticky;
   top: 0px;
-  z-index: 10;
+  /* z-index: 20; */
   background-color: rgb(10, 200, 190) !important;
 }
 .projectCard{
