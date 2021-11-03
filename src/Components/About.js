@@ -13,7 +13,7 @@ function About(){
                 He is excited to create intuitive solutions to real-world problems.
             </p>
             <p>
-                <a href="mailto:westxsw@outlook.com">Click here</a>
+                <a href="mailto:westxsw@outlook.com">Contact Me</a>
             </p>
         </div>
         </>
