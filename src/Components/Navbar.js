@@ -27,6 +27,7 @@ function NavBar(){
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
             <Nav.Link href="/projects">Projects</Nav.Link>
+            <Nav.Link href="/login">NEW</Nav.Link>
             
             </Nav>
         </Navbar.Collapse>
